@@ -1,6 +1,3 @@
-Program list:
-
---------------------
 Launchers
 --------------------
 Steam,
@@ -23,6 +20,7 @@ CSS_Clientmod,
 OverWolf,
 Mouse drivers,
 Nvidia App,
+
 --------------------
 Needed link
 --------------------
