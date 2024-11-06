@@ -3,19 +3,22 @@ Program list:
 --------------------
 Launchers
 --------------------
-Steam
-Epic Games
-Riot Games
+Steam,
+Epic Games,
+Riot Games,
 
 --------------------
 Messengers
 --------------------
-Telegram
-Discord
+Telegram,
+Discord,
 
 --------------------
 Other
 --------------------
-Visual Studio
-Spotify
-CSS Clientmod
+Visual Studio,
+Spotify,
+Spicetify(iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex),
+CSS_Clientmod,
+OverWolf,
+Mouse drivers,
