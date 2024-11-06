@@ -22,8 +22,11 @@ Spicetify(iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install
 CSS_Clientmod,
 OverWolf,
 Mouse drivers,
-
+Nvidia App,
 --------------------
 Needed link
 --------------------
-https://github.com/massgravel/Microsoft-Activation-Scripts
+[Windows Activation](https://github.com/massgravel/Microsoft-Activation-Scripts),
+[Linux(Arch)](https://archlinux.org/download/),
+[Linux(Mint)](https://www.linuxmint.com/edition.php?id=316),
+[Linux(Ubuntu)](https://ubuntu.com/download),
