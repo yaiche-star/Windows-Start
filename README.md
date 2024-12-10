@@ -31,3 +31,9 @@ Needed link
 [HyprLand(Dotfiles)](https://github.com/Pilkdrinker/PilkDots?tab=readme-ov-file),
 [Linux(Mint)](https://www.linuxmint.com/edition.php?id=316),
 [Linux(Ubuntu)](https://ubuntu.com/download),
+
+---------------------
+GTA RP
+---------------------
+[Redux](https://drive.google.com/file/d/1WfT-eoIyo8ZXcih8nSh1qi-MoSFzE7wN/view?usp=sharing)
+[Gunpack](https://drive.google.com/file/d/1k5flttfuSYDufRMziijlgv1JOOADivPr/view?usp=sharing)
