@@ -26,6 +26,7 @@ Needed link
 --------------------
 [Windows Activation](https://github.com/massgravel/Microsoft-Activation-Scripts),
 [Windows](https://drive.google.com/file/d/1eyWO6xb16GEgR9Ps_i5flvaLX6S3VAdC/view),
+[Windows Tweaker](https://vtrl.cc/#home),
 [Linux(CachyOS)](https://cachyos.org/download/),
 [Linux(Arch)](https://archlinux.org/download/),
 [HyprLand(Dotfiles)](https://github.com/Pilkdrinker/PilkDots?tab=readme-ov-file),
