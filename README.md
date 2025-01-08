@@ -9,6 +9,7 @@ Messengers
 --------------------
 Telegram,
 Discord,
+[Vencord](https://vencord.dev/download/),
 
 --------------------
 Other
