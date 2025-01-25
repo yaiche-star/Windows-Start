@@ -1,6 +1,7 @@
 Launchers
 --------------------
 Steam,
+[Metro for Steam](https://docs.steambrew.app/),
 Epic Games,
 Riot Games,
 
