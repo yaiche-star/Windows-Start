@@ -1,9 +1,9 @@
 Launchers
 --------------------
-Steam,
+[Steam](https://steamcommunity.com/),
 [Metro for Steam](https://docs.steambrew.app/),
-Epic Games,
-Riot Games,
+[Epic Games],
+[Riot Games](https://playvalorant.com/ru-ru/),
 
 --------------------
 Messengers
