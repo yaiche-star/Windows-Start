@@ -18,7 +18,6 @@ Other
 Visual Studio,
 [Spotify](https://www.spotify.com/by-ru/download/windows/),
 Spicetify(iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex),
-CSS_Clientmod,
 [OverWolf](https://overplus.gg/),
 [Mouse drivers](https://attackshark.com/pages/driver-download),
 [Nvidia App](https://www.nvidia.com/en-us/software/nvidia-app/),
