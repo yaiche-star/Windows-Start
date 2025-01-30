@@ -2,26 +2,26 @@ Launchers
 --------------------
 [Steam](https://steamcommunity.com/),
 [Metro for Steam](https://docs.steambrew.app/),
-[Epic Games],
+[Epic Games](https://store.epicgames.com/en-US/download),
 [Riot Games](https://playvalorant.com/ru-ru/),
 
 --------------------
 Messengers
 --------------------
-Telegram,
-Discord,
+[Telegram](https://telegram.org/),
+[Discord](https://discord.com/download),
 [Vencord](https://vencord.dev/download/),
 
 --------------------
 Other
 --------------------
 Visual Studio,
-Spotify,
+[Spotify](https://www.spotify.com/by-ru/download/windows/),
 Spicetify(iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex),
 CSS_Clientmod,
-OverWolf,
-Mouse drivers,
-Nvidia App,
+[OverWolf](https://overplus.gg/),
+[Mouse drivers](https://attackshark.com/pages/driver-download),
+[Nvidia App](https://www.nvidia.com/en-us/software/nvidia-app/),
 
 --------------------
 Needed link
