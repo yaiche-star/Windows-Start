@@ -21,7 +21,7 @@ Spicetify(iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install
 [OverWolf](https://overplus.gg/),
 [Mouse drivers](https://attackshark.com/pages/driver-download),
 [Nvidia App](https://www.nvidia.com/en-us/software/nvidia-app/),
-
+[Minify](https://github.com/robbyz512/dota2-minify)
 --------------------
 Needed link
 --------------------
