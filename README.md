@@ -17,6 +17,7 @@ Other
 --------------------
 Visual Studio,
 [Spotify](https://www.spotify.com/by-ru/download/windows/),
+[SpotX](https://github.com/SpotX-Official/SpotX),
 Spicetify(iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex),
 [OverWolf](https://overplus.gg/),
 [Mouse drivers](https://attackshark.com/pages/driver-download),
